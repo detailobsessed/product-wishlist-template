@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "{PRODUCT_NAME} Documentation"
+    url: "{DOCS_URL}"
+    about: Check the official docs before reporting issues
+  - name: "{PRODUCT_NAME} Official Site"
+    url: "{PRODUCT_URL}"
+    about: Visit the official website
